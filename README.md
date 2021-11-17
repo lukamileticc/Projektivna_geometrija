@@ -10,5 +10,11 @@
     
     `Detaljniji opis zadatka, koriscenu sliku predmeta, kao i program mozete naci u repozitorijumu Domaci_1`
     
-- **Zadatak:  Računanje projektivnog preslikavanja, otklanjanje distorzije, panorama**
+- **Zadatak:  Računanje projektivnog preslikavanja, otklanjanje projektivne distorzije**
+
+    Napisan naivni algoritam, DLT(Direct linear transform) i modifikovani DLT(sa normalizacijom tacaka) algoritam koji vracaju matricu
+    preslikavanja koja slika originalne tacke u njihove slike. Algoritmi primaju kao ulaz homogene koordinate originalnih tacaka kao i njihovih slika.
+    
+    Napisana mini aplikacija koja koristi ove algoritme tako sto levim klikom misa izaberemo 4 originalne tacke na ucitanoj slici a kao izlaz dobijamo
+    sliku sa eliminisanom projektivnom distorzijom.
 
