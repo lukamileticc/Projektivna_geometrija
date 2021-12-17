@@ -18,3 +18,11 @@
     `Napisana mini aplikacija koja koristi ove algoritme tako sto levim klikom misa izaberemo 4 originalne tacke na ucitanoj slici a kao izlaz dobijamo
     sliku sa eliminisanom projektivnom distorzijom.`
 
+- **Zadatak: Algoritmi transformacija odnosno afinih preslikavanja koje cuvaju orijentaciju(Izometrije)**
+
+    Zadatak je implementirati 6 funkcija koje vrse ove transformacije iz oblika u oblik. Oblici mogu biti: 
+    
+    - Vektor oko koga se rotira, ugao za koliko se rotira
+    - Matrica rotacije A(3x3)
+    - Ojlerovi uglovi 
+    - Kvaternioni
